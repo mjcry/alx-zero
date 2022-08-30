@@ -5,4 +5,5 @@ git branch main
 git branch --list
 git checkout main
 git brunch checkout
-
+vi up_to_date
+git brunch checkout -b
