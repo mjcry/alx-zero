@@ -1,3 +1,6 @@
-How to be up to date in git
-up_to_date
-i git pull 
+git branch main
+git branch --list
+git checkout main
+git branch checkout -b main
+git pull 
+pit push origin main 
