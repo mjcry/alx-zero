@@ -1,3 +1,8 @@
 i git pull 
 Add up_to_date to git, commit (message: “How to be up to date in git”), and pushto the origin
 git push
+git branch main
+git branch --list
+git checkout main
+git brunch checkout
+
